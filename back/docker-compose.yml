@@ -35,4 +35,4 @@ services:
       ME_CONFIG_BASICAUTH: false
 
 volumes:
-  mongo-data:
+  mongo-data: 
