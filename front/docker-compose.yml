@@ -3,5 +3,5 @@ services:
   container_name: front-container1
   ports:
       - 4000:80
-  image: front-session6
+  image: houriamami/front-session6
   build: .
